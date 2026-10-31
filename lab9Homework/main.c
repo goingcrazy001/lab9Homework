@@ -6,7 +6,7 @@ int main() {
     setlocale(LC_ALL, "RUS");
     char symbol;
     int a, b;
-    printf("Введите символ для рисования фигуры: ");
+    printf("Введите символ, из которого будет строиться фигура: ");
     scanf(" %c", &symbol);
     printf("Введите длину вертикального катета (a): ");
     scanf("%d", &a);
