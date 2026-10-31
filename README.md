@@ -22,7 +22,7 @@
 ## Реализация программы
 Программа написана на языке C++
 ```c++
-clude <stdio.h>
+#include <stdio.h>
 #include <locale.h>
 
 
