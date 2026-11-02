@@ -4,7 +4,6 @@
 
 <img width="696" height="268" alt="image" src="https://github.com/user-attachments/assets/abf7a6c3-0d62-4efe-9b75-425beacbc04f" />
 
-### Задание 
 ### Алгоритм
 1. Начало.
 2. Ввести символ `symbol` для построения фигуры.
