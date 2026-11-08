@@ -2,7 +2,7 @@
 ## Условие задачи
 Напишите программу, выводящую на экран заданную в ДЗ лаб.6 геометрическую фигуру, нарисованную с помощью заданного с клавиатуры символа.
 
-<img width="383" height="339" alt="image" src="https://github.com/user-attachments/assets/ce40895f-8460-4c8f-bcab-2753f719d1bc" />
+<img width="382" height="329" alt="image" src="https://github.com/user-attachments/assets/34cb7a3f-677f-4e50-b137-eaa11b91fa75" />
 
 ### Алгоритм
 1. Начало.
